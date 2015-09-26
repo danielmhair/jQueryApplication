@@ -1,0 +1,14 @@
+#marginTop {
+	margin-top: -70px;
+}
+
+.col-md-4.badge {
+    padding: 2%;
+    margin: 1%;
+    width: 23%;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.khan-image {
+	background: url('../img/khan.jpg') center center fixed;
+}
